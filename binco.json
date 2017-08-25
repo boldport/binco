@@ -4,8 +4,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -50.302385, 
-        22.457807
+        -8.857502, 
+        -4.387602
       ], 
       "rotate": 90, 
       "show": true, 
@@ -24,8 +24,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        5.657828, 
-        -6.639965
+        4.759192, 
+        -4.439144
       ], 
       "rotate": 90, 
       "show": true, 
@@ -84,8 +84,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        8.486686, 
-        -6.639965
+        4.748778, 
+        -8.335971
       ], 
       "rotate": 90, 
       "show": true, 
@@ -127,7 +127,7 @@
         0, 
         -6.661554
       ], 
-      "rotate": -90, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -142,7 +142,7 @@
         0, 
         2.02226
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -394,8 +394,8 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -21.156268, 
-        10.569696
+        -32.566424, 
+        16.62204
       ], 
       "rotate": 90, 
       "show": true, 
@@ -534,8 +534,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -4.67838, 
-        -6.733937
+        -6.278708, 
+        -8.251416
       ], 
       "rotate": 90, 
       "show": true, 
@@ -594,8 +594,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -54.214549, 
-        29.283877
+        7.384395, 
+        -4.345311
       ], 
       "rotate": 90, 
       "show": true, 
@@ -614,8 +614,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -9.941549, 
-        -6.733937
+        -6.431543, 
+        -4.346139
       ], 
       "rotate": 90, 
       "show": true, 
@@ -634,8 +634,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -23.149602, 
-        11.496872
+        -34.559758, 
+        17.549216
       ], 
       "rotate": 90, 
       "show": true, 
@@ -674,8 +674,8 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -7.309964, 
-        -6.733937
+        -8.910293, 
+        -8.251416
       ], 
       "rotate": 90, 
       "show": true, 
