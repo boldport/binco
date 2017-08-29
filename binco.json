@@ -4,16 +4,16 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -57.018432, 
-        22.457807
+        -7.070265, 
+        0.77413
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -0.0, 
-            -1.494582
+            -2.41387, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -24,16 +24,16 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -7.070265, 
-        0.77413
+        -7.246277, 
+        -7.837086
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -0.0, 
-            -1.494582
+            2.40181, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -44,16 +44,16 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -7.246277, 
-        -7.837086
+        -4.922401, 
+        -7.898408
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -0.0, 
-            -1.494582
+            2.463132, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -64,36 +64,16 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -4.922401, 
-        -7.898408
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0.0, 
-            1.485128
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "C5": {
-      "footprint": "0805-cap", 
-      "layer": "top", 
-      "location": [
         11.932323, 
         -9.768539
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            -0.0, 
-            -1.494582
+            2.429617, 
+            0
           ], 
           "rotate": 90, 
           "show": true
@@ -134,26 +114,6 @@
       "footprint": "solder-blob-jumper", 
       "layer": "bottom", 
       "location": [
-        33.308195, 
-        6.405942
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
-        }
-      }
-    }, 
-    "J2": {
-      "footprint": "solder-blob-jumper", 
-      "layer": "bottom", 
-      "location": [
         -17.350837, 
         3.201409
       ], 
@@ -170,7 +130,7 @@
         }
       }
     }, 
-    "J3": {
+    "J2": {
       "footprint": "smd-header", 
       "layer": "bottom", 
       "location": [
@@ -178,26 +138,6 @@
         2.423329
       ], 
       "rotate": -90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
-        }
-      }
-    }, 
-    "J4": {
-      "footprint": "solder-blob-jumper", 
-      "layer": "bottom", 
-      "location": [
-        -38.4529, 
-        -0.860377
-      ], 
-      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -241,12 +181,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -261,12 +196,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -281,32 +211,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
-        }
-      }
-    }, 
-    "LED12": {
-      "footprint": "led-1206", 
-      "layer": "bottom", 
-      "location": [
-        -42.643037, 
-        9.081717
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -321,12 +226,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -341,12 +241,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -361,12 +256,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -381,12 +271,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -401,12 +286,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -421,12 +301,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -441,12 +316,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -461,12 +331,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -510,47 +375,112 @@
         }
       }
     }, 
-    "R1": {
+    "NR1": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -20.290359, 
+        -8.744901, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NR10": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -4.896417, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NR11": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        2.800555, 
         10.248669
       ], 
       "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0.035836, 
-            1.49152
-          ], 
-          "rotate": 90, 
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R10": {
+    "NR2": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        6.649039, 
+        -12.593389, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NR3": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        18.194494, 
         10.248669
       ], 
       "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            -0.0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R11": {
+    "NR4": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        14.346005, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NR5": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        10.497524, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NR6": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
@@ -561,123 +491,63 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0.0, 
-            1.516633
-          ], 
-          "rotate": 90, 
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R12": {
+    "NR7": {
       "footprint": "0805", 
-      "layer": "top", 
+      "layer": "bottom", 
       "location": [
-        -44.636371, 
-        10.008893
+        6.649039, 
+        10.248669
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            0.025948, 
-            1.501812
-          ], 
-          "rotate": 90, 
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R13": {
+    "NR8": {
       "footprint": "0805", 
-      "layer": "top", 
+      "layer": "bottom", 
       "location": [
-        -37.4414, 
-        9.150373
+        -16.441874, 
+        10.248669
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "location": [
-            -0.0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R14": {
+    "NR9": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -20.290359, 
+        10.248669
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
         7.883011, 
         -2.268258
       ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0.0201, 
-            1.49152
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R15": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        7.054019, 
-        -9.768539
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0.035836, 
-            1.49152
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R16": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        9.493172, 
-        -9.768539
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R17": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        4.614865, 
-        -9.768539
-      ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -692,18 +562,18 @@
     }, 
     "R2": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
-        -16.441874, 
-        10.248669
+        4.614865, 
+        -9.768539
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0.0201, 
-            1.49152
+            2.419728, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -712,18 +582,18 @@
     }, 
     "R3": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
-        -12.593389, 
-        10.248669
+        7.054019, 
+        -9.768539
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0.035836, 
-            1.49152
+            2.429617, 
+            0
           ], 
           "rotate": 90, 
           "show": true
@@ -732,118 +602,18 @@
     }, 
     "R4": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
-        10.497524, 
-        10.248669
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -0.0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R5": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -8.744901, 
-        10.248669
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0.025948, 
-            1.501812
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R6": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        14.346005, 
-        10.248669
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R7": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        18.194494, 
-        10.248669
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R8": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        2.800555, 
-        10.248669
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            -0.0, 
-            -1.494582
-          ], 
-          "rotate": 90, 
-          "show": true
-        }
-      }
-    }, 
-    "R9": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -4.896417, 
-        10.248669
+        9.493172, 
+        -9.768539
       ], 
       "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0.025948, 
-            1.501812
+            2.413869, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
@@ -923,10 +693,10 @@
   }, 
   "distances": {
     "from-pour-to": {
-      "drill": 0.5, 
-      "outline": 0.5, 
-      "pad": 0.5, 
-      "route": 0.5
+      "drill": 0.25, 
+      "outline": 0.4, 
+      "pad": 0.25, 
+      "route": 0.25
     }, 
     "soldermask": {
       "circle-buffer": 0.05, 
@@ -1089,23 +859,33 @@
   "shapes": {
     "B": {
       "footprint": "boldport-logo-b", 
-      "layer": "top", 
+      "layer": "bottom", 
       "location": [
-        -14.585989, 
-        29.261368
+        -19.273894, 
+        -5.679912
       ], 
       "rotate": 0, 
       "show": true
-    },
+    }, 
     "BIN": {
       "footprint": "binary", 
       "layer": "top", 
       "location": [
-        0, 
-        20
+        0.885914, 
+        6.598412
       ], 
       "rotate": 90, 
       "show": true
+    }, 
+    "NUM": {
+      "footprint": "numbers", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0, 
+      "show": false
     }
   }, 
   "soldermask": {
