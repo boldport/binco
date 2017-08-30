@@ -20,16 +20,15 @@
           "type": "circle",
 	  "layers": ["top", "internal", "bottom"],
 	  "style": "fill",
-          "diameter": 0.47,
-          "buffer-to-pour": 0.125,
-          "soldermask": {},
-          "solderpaste": {}
+          "diameter": 0.9,
+          "buffer-to-pour": 0.15,
+          "soldermask": {}
         }
       ],
       "drills":
       [
         {
-          "diameter": 0.15
+          "diameter": 0.5
         }
       ]
     }
