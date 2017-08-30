@@ -80,6 +80,26 @@
         }
       }
     }, 
+    "COUNT": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "bottom", 
+      "location": [
+        -17.350837, 
+        3.201409
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.116667
+          ], 
+          "rotate": 0, 
+          "show": true
+        }
+      }
+    }, 
     "IC1": {
       "footprint": "74HC4020-SOIC16", 
       "layer": "top", 
@@ -110,26 +130,6 @@
         }
       }
     }, 
-    "J1": {
-      "footprint": "solder-blob-jumper", 
-      "layer": "bottom", 
-      "location": [
-        -17.350837, 
-        3.201409
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": true
-        }
-      }
-    }, 
     "J2": {
       "footprint": "smd-header", 
       "layer": "bottom", 
@@ -145,7 +145,7 @@
             0, 
             0
           ], 
-          "rotate": 0, 
+          "rotate": -90, 
           "show": true
         }
       }
@@ -174,7 +174,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -10.669146, 
+        -11.535056, 
         9.321493
       ], 
       "rotate": 90, 
@@ -189,7 +189,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -2.972175, 
+        -3.838085, 
         9.321493
       ], 
       "rotate": 90, 
@@ -204,7 +204,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        20.118735, 
+        19.252825, 
         9.321493
       ], 
       "rotate": 90, 
@@ -219,7 +219,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        0.87631, 
+        0.0104, 
         9.321493
       ], 
       "rotate": 90, 
@@ -234,7 +234,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        16.27025, 
+        15.40434, 
         9.321493
       ], 
       "rotate": 90, 
@@ -249,7 +249,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -14.517631, 
+        -15.383541, 
         9.321493
       ], 
       "rotate": 90, 
@@ -264,7 +264,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        8.573279, 
+        7.707369, 
         9.321493
       ], 
       "rotate": 90, 
@@ -279,7 +279,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        12.421764, 
+        11.555854, 
         9.321493
       ], 
       "rotate": 90, 
@@ -294,7 +294,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -6.82066, 
+        -7.68657, 
         9.321493
       ], 
       "rotate": 90, 
@@ -309,7 +309,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        -18.366117, 
+        -19.232027, 
         9.321493
       ], 
       "rotate": 90, 
@@ -324,7 +324,7 @@
       "footprint": "led-1206", 
       "layer": "bottom", 
       "location": [
-        4.724794, 
+        3.858884, 
         9.321493
       ], 
       "rotate": 90, 
@@ -339,7 +339,7 @@
       "footprint": "mounting-hole", 
       "layer": "top", 
       "location": [
-        24.179166, 
+        24.527506, 
         10.393464
       ], 
       "rotate": 0, 
@@ -359,7 +359,7 @@
       "footprint": "mounting-hole", 
       "layer": "top", 
       "location": [
-        -24.179166, 
+        -24.527506, 
         10.393464
       ], 
       "rotate": 0, 
@@ -379,7 +379,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -8.744901, 
+        -9.610812, 
         10.248669
       ], 
       "rotate": -90, 
@@ -394,7 +394,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -4.896417, 
+        -5.762328, 
         10.248669
       ], 
       "rotate": -90, 
@@ -409,7 +409,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        2.800555, 
+        1.934644, 
         10.248669
       ], 
       "rotate": 90, 
@@ -424,7 +424,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -12.593389, 
+        -13.459298, 
         10.248669
       ], 
       "rotate": -90, 
@@ -439,7 +439,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        18.194494, 
+        17.328579, 
         10.248669
       ], 
       "rotate": 90, 
@@ -454,7 +454,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        14.346005, 
+        13.480098, 
         10.248669
       ], 
       "rotate": -90, 
@@ -469,7 +469,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        10.497524, 
+        9.631609, 
         10.248669
       ], 
       "rotate": -90, 
@@ -484,7 +484,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -1.04793, 
+        -1.913843, 
         10.248669
       ], 
       "rotate": -90, 
@@ -499,7 +499,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        6.649039, 
+        5.783128, 
         10.248669
       ], 
       "rotate": -90, 
@@ -514,7 +514,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -16.441874, 
+        -17.307785, 
         10.248669
       ], 
       "rotate": -90, 
@@ -529,7 +529,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -20.290359, 
+        -21.15627, 
         10.248669
       ], 
       "rotate": -90, 
@@ -636,7 +636,7 @@
             0
           ], 
           "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -656,7 +656,7 @@
             0
           ], 
           "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -676,7 +676,7 @@
             0
           ], 
           "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }
@@ -861,8 +861,8 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        -19.273894, 
-        -5.679912
+        -20.231828, 
+        -5.74958
       ], 
       "rotate": 0, 
       "show": true
@@ -871,10 +871,20 @@
       "footprint": "binary", 
       "layer": "top", 
       "location": [
-        0.885914, 
+        0.00175, 
         6.598412
       ], 
       "rotate": 90, 
+      "show": true
+    }, 
+    "COUNT": {
+      "footprint": "count", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        7.526586
+      ], 
+      "rotate": 0, 
       "show": true
     }, 
     "NUM": {
