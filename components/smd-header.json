@@ -6,7 +6,7 @@
       "layout": 
       {
         "pad": "pad1", 
-        "location": [-3.81, 0]
+        "location": [-1.27, 0]
       }
     },
   "2":
@@ -14,23 +14,7 @@
       "layout": 
       {
         "pad": "pad1", 
-        "location": [-1.27, 0]
-      }
-    },
-  "3":
-    {	
-      "layout": 
-      {
-        "pad": "pad1", 
         "location": [1.27, 0]
-      }
-    },
-  "4":
-    {	
-      "layout": 
-      {
-        "pad": "pad1", 
-        "location": [3.81, 0]
       }
     }
   },
@@ -40,6 +24,21 @@
     {
       "shapes":
       [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "1.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "5.5mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "VBATT\nGND"
+        }
       ]
     },
     "assembly":
