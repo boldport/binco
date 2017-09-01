@@ -130,6 +130,26 @@
         }
       }
     }, 
+    "IC3": {
+      "footprint": "SOT23-nFET", 
+      "layer": "bottom", 
+      "location": [
+        -18.823955, 
+        -2.205803
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            2.39952
+          ], 
+          "rotate": 180, 
+          "show": true
+        }
+      }
+    }, 
     "J2": {
       "footprint": "smd-header", 
       "layer": "bottom", 
@@ -620,6 +640,26 @@
         }
       }
     }, 
+    "R5": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -12.370334, 
+        2.823084
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0201, 
+            1.49152
+          ], 
+          "rotate": -90, 
+          "show": true
+        }
+      }
+    }, 
     "SW1": {
       "footprint": "GX05300", 
       "layer": "bottom", 
@@ -861,8 +901,8 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        -20.231828, 
-        -5.74958
+        16.050111, 
+        1.565923
       ], 
       "rotate": 0, 
       "show": true
