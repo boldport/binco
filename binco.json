@@ -1,6 +1,6 @@
 {
   "components": {
-    "C1": {
+    "C00": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
@@ -20,7 +20,7 @@
         }
       }
     }, 
-    "C2": {
+    "C01": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
@@ -32,15 +32,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.40181, 
-            0.0
+            2.930977, 
+            0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
     }, 
-    "C3": {
+    "C10": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
@@ -52,15 +52,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.463132, 
-            0.0
+            2.992299, 
+            0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
     }, 
-    "C4": {
+    "C11": {
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
@@ -72,10 +72,10 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.429617, 
+            2.958784, 
             0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
@@ -100,7 +100,7 @@
         }
       }
     }, 
-    "IC1": {
+    "IC00": {
       "footprint": "74HC4020-SOIC16", 
       "layer": "top", 
       "location": [
@@ -111,11 +111,12 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "rotate": 90, 
+          "show": true
         }
       }
     }, 
-    "IC2": {
+    "IC01": {
       "footprint": "555-SOIC8", 
       "layer": "top", 
       "location": [
@@ -126,11 +127,12 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "rotate": -90, 
+          "show": true
         }
       }
     }, 
-    "IC3": {
+    "IC10": {
       "footprint": "SOT23-nFET", 
       "layer": "bottom", 
       "location": [
@@ -150,7 +152,7 @@
         }
       }
     }, 
-    "J2": {
+    "J0": {
       "footprint": "smd-header", 
       "layer": "bottom", 
       "location": [
@@ -163,14 +165,14 @@
         "refdef": {
           "location": [
             0, 
-            0
+            -1.172973
           ], 
           "rotate": -90, 
           "show": true
         }
       }
     }, 
-    "J5": {
+    "J1": {
       "footprint": "CR2032-battery-holder-smd", 
       "layer": "bottom", 
       "location": [
@@ -186,7 +188,7 @@
             0
           ], 
           "rotate": 0, 
-          "show": true
+          "show": false
         }
       }
     }, 
@@ -560,7 +562,7 @@
         }
       }
     }, 
-    "R1": {
+    "R000": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -572,15 +574,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0.0201, 
-            1.49152
+            2.458477, 
+            0.0
           ], 
           "rotate": 90, 
           "show": true
         }
       }
     }, 
-    "R2": {
+    "R001": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -592,15 +594,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.419728, 
-            0.0
+            3.326826, 
+            0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
     }, 
-    "R3": {
+    "R010": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -612,15 +614,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.429617, 
+            3.338911, 
             0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
     }, 
-    "R4": {
+    "R011": {
       "footprint": "0805", 
       "layer": "top", 
       "location": [
@@ -632,15 +634,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            2.413869, 
-            0.0
+            3.326826, 
+            0
           ], 
-          "rotate": 90, 
+          "rotate": 0, 
           "show": true
         }
       }
     }, 
-    "R5": {
+    "R100": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
@@ -652,8 +654,8 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0.0201, 
-            1.49152
+            2.470917, 
+            0
           ], 
           "rotate": -90, 
           "show": true
@@ -927,6 +929,26 @@
       "rotate": 0, 
       "show": true
     }, 
+    "EXMP": {
+      "footprint": "example", 
+      "layer": "bottom", 
+      "location": [
+        20.745907, 
+        -4.099125
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "INFO": {
+      "footprint": "info", 
+      "layer": "top", 
+      "location": [
+        0, 
+        11.5
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
     "NUM": {
       "footprint": "numbers", 
       "layer": "top", 
@@ -935,7 +957,7 @@
         0
       ], 
       "rotate": 0, 
-      "show": false
+      "show": true
     }
   }, 
   "soldermask": {
