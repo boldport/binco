@@ -24,8 +24,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -7.246277, 
-        -7.837086
+        -8.970558, 
+        -8.965087
       ], 
       "rotate": -90, 
       "show": true, 
@@ -44,8 +44,8 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        -4.922401, 
-        -7.898408
+        -4.516072, 
+        -8.965087
       ], 
       "rotate": -90, 
       "show": true, 
@@ -64,7 +64,7 @@
       "footprint": "0805-cap", 
       "layer": "top", 
       "location": [
-        11.932323, 
+        11.562852, 
         -9.768539
       ], 
       "rotate": -90, 
@@ -96,6 +96,26 @@
             -2.116667
           ], 
           "rotate": 0, 
+          "show": true
+        }
+      }
+    }, 
+    "COUNT SLOW/FAST": {
+      "footprint": "DT10340N", 
+      "layer": "top", 
+      "location": [
+        17.1, 
+        -1.25
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.099891, 
+            -3.491304
+          ], 
+          "rotate": -45, 
           "show": true
         }
       }
@@ -606,7 +626,7 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        7.054019, 
+        6.930862, 
         -9.768539
       ], 
       "rotate": -90, 
@@ -626,7 +646,7 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        9.493172, 
+        9.246855, 
         -9.768539
       ], 
       "rotate": -90, 
@@ -643,6 +663,26 @@
       }
     }, 
     "R100": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -6.743316, 
+        -8.965087
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            3.326826, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": true
+        }
+      }
+    }, 
+    "R101": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
@@ -662,7 +702,7 @@
         }
       }
     }, 
-    "SW1": {
+    "RESET": {
       "footprint": "GX05300", 
       "layer": "bottom", 
       "location": [
@@ -674,15 +714,15 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0, 
-            0
+            -2.739092, 
+            2.621119
           ], 
-          "rotate": 0, 
-          "show": false
+          "rotate": -45, 
+          "show": true
         }
       }
     }, 
-    "SW2": {
+    "TURN ON": {
       "footprint": "F10450", 
       "layer": "top", 
       "location": [
@@ -694,31 +734,11 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            0, 
-            0
+            -4.896906, 
+            -4.370239
           ], 
-          "rotate": 0, 
-          "show": false
-        }
-      }
-    }, 
-    "SW3": {
-      "footprint": "DT10340N", 
-      "layer": "top", 
-      "location": [
-        17.1, 
-        -1.25
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "rotate": 0, 
-          "show": false
+          "rotate": 45, 
+          "show": true
         }
       }
     }
@@ -957,7 +977,7 @@
         0
       ], 
       "rotate": 0, 
-      "show": true
+      "show": false
     }
   }, 
   "soldermask": {
