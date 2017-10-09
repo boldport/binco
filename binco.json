@@ -185,7 +185,7 @@
         "refdef": {
           "location": [
             0, 
-            -1.172973
+            2.740199
           ], 
           "rotate": -90, 
           "show": true
@@ -934,7 +934,7 @@
       "layer": "top", 
       "location": [
         0.00175, 
-        6.598412
+        6.352099
       ], 
       "rotate": 90, 
       "show": true
@@ -977,7 +977,7 @@
         0
       ], 
       "rotate": 0, 
-      "show": false
+      "show": true
     }
   }, 
   "soldermask": {

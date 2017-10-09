@@ -15,7 +15,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-2.7, 3.135],
+        "location": [-2.7, 3.175],
         "label": "Q13"
       }
     },
@@ -60,7 +60,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-2.7, -3.135],
+        "location": [-2.7, -3.175],
         "label": "Q4"
       }
     },
@@ -87,7 +87,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [2.7, -3.135],
+        "location": [2.7, -3.175],
         "label": "CPn"
       }
     },
@@ -132,7 +132,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [2.7, 3.135],
+        "location": [2.7, 3.175],
         "label": "Q11"
       }
     },
