@@ -28,6 +28,7 @@
         {
           "layers": ["top","bottom"],
           "type": "circle",
+          "solderpaste": {},
           "diameter": 1,
           "buffer-to-pour": 1.2,
           "soldermask": {
